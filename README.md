@@ -7,10 +7,11 @@ Ao desenvolver esse projeto, aprendi sobre a implementação de gestos de desliz
 
 
 
+<br/>
 <div align="center">
-   <img src="" width="250" />
+   <img src="https://github.com/KaduVuotto/tinder-clone/blob/main/tinder-clone.gif?raw=true" width="300" />
 </div>
-
+<br/>
 
 ## Referência
 
